@@ -7,6 +7,6 @@ Team: Nghia Tran and Hoa Nguyen
 
 **17-April-2015**
 
-Have first presentation. Here is the slides
+We have first presentation. Here is the [slides](https://bitbucket.org/txnghia/capstone/downloads/Progress_04162015.pptx)
 
 **28-April-2015**

@@ -5,5 +5,8 @@ Team: Nghia Tran and Hoa Nguyen
 
 ## Journal
 
-**17-Apri-2015**
+**17-April-2015**
 
+Have first presentation. Here is the slides
+
+**28-April-2015**

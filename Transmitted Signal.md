@@ -1,0 +1,1 @@
+![Transmitted Signal.png](https://bitbucket.org/repo/Lx4j45/images/3704239094-Transmitted%20Signal.png)

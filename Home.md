@@ -25,7 +25,7 @@ Tasks need to complete by 01-May-2015
 
 **17-23-April-2015**
 
-Worked in Transmitter part, created Modulated signal output
+Worked in Transmitter part, created Modulated signal output.[Transmitted Signal](https://bitbucket.org/txnghia/capstone/wiki/Transmitted%20Signal)
 
 **24-April-2015**
 

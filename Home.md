@@ -29,3 +29,9 @@ Tasks need to complete by 01-May-2015
 Downloaded: ZynqBook, ZynqBook tutorial, and Source tutorial from http://www.zynqbook.com/downloads.html
 
 Completed a tutorial from ZynnBook that generate LEDs test IP with Vivado.  The instructions were very easy to follow.  Will go through some other tutorial generate IP from MatLab Simulink.
+
+**29-April-2015**
+
+Worked with Hoa, went through Simulink code for PBSK transmitter
+
+Xilinx Vivado got error at start up for my laptop. Reinstalled Vivado 14.2

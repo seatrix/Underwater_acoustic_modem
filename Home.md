@@ -23,13 +23,13 @@ Tasks need to complete by 01-May-2015
 
 4. Design a FIR filter, generate HDL code for Zynq. Plan to have simulation first, then run on the ZedBoard when the hardware is built.
 
-**17- 23-April-2015**
+**17-23-April-2015**
 
-    Worked in Transmitter part, created Modulated signal output
+Worked in Transmitter part, created Modulated signal output
 
 **24-April-2015**
-1. Worked with Prof Eldon about Simulink BPSK in Receiver part (Hoa) 
 
+Worked with Prof Eldon about Simulink BPSK in Receiver part (Hoa)
 
 **28-April-2015**
 

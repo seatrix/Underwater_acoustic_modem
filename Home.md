@@ -44,6 +44,9 @@ Worked with Hoa, went through Simulink code for BPSK transmitter
 Xilinx Vivado got error at start up for my laptop. Reinstalled Vivado 14.2
 
 **30-April-2015**
+
 Worked with Prof Eldon about Transmitter.  The Transmitted signal looks better.
+
 Run HDL, created Verilog code for transmitter.[Transmitted Signal Updated](E:\WES207\Doc\Bit)
+
 Ready Power point for Presentation

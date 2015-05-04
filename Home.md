@@ -50,3 +50,13 @@ Worked with Prof Eldon about Transmitter.  The Transmitted signal looks better.
 Run HDL, created Verilog code for transmitter.[Transmitted Signal Updated]https://bitbucket.org/repo/Lx4j45/images/3662998166-Transmitter_Updated.PNG)
 
 Ready Power point for Presentation
+
+**01-May-2015**
+
+Worked with Patrick and Rick about Demod signal and the LPF but SIM was not working.
+
+**02-May-2015**
+
+Worked with Prof Eldon. Without RRC filter, new Mod and Demod can get 0 error. [Transmitted signal ]
+
+

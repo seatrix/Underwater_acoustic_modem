@@ -55,8 +55,10 @@ Ready Power point for Presentation
 
 Worked with Patrick and Rick about Demod signal and the LPF but SIM was not working.
 
-**02-May-2015**
+**02,03-May-2015**
 
-Worked with Prof Eldon. Without RRC filter, new Mod and Demod can get 0 error. [Transmitted signal ]
+Worked with Prof Eldon. Without RRC filter, new Mod and Demod can get 0 error. [Transmitted signal without RRC ](https://bitbucket.org/repo/Lx4j45/images/2333873457-Transmited%20signal.PNG)
+
+ [Received signal without RRC ](https://bitbucket.org/repo/Lx4j45/images/1451673545-Receiver%20without%20RRC.PNG)
 
 

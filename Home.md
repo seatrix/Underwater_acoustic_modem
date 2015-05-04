@@ -47,7 +47,7 @@ Xilinx Vivado got error at start up for my laptop. Reinstalled Vivado 14.2
 
 Worked with Prof Eldon about Transmitter.  The Transmitted signal looks better.
 
-Run HDL, created Verilog code for transmitter.[Transmitted Signal Updated]https://bitbucket.org/repo/Lx4j45/images/3662998166-Transmitter_Updated.PNG)
+Run HDL, created Verilog code for transmitter.[Transmitted Signal Updated]( https://bitbucket.org/repo/Lx4j45/images/3662998166-Transmitter_Updated.PNG)
 
 Ready Power point for Presentation
 

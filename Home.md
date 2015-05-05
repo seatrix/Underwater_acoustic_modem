@@ -62,3 +62,32 @@ Worked with Prof Eldon. Without RRC filter, new Mod and Demod can get 0 error. [
  [Received signal without RRC ](https://bitbucket.org/repo/Lx4j45/images/1451673545-Receiver%20without%20RRC.PNG)
 
 
+
+**04-May-2015**
+
+Digikey parts will be delivered on 5/5/15
+
+Got shipping confirmation from PCB manufacture.  The Board will also be delivered by 8:00 pm on 5/5/15
+
+PCB Manufacture. (http://www.PCBnet.com) 
+Imagineering, Inc.
+2425 Touhy Ave
+Elk Grove Village, IL 60007
+Phone: (847) 806-0003
+Fax: (847) 806-0004
+
+The total price for PCB:
+
+Part Number = NT_04252015 
+ Quantity = 4 
+ Unit price = $37.96 
+ Tooling Charge: $100.00 
+ Testing: $0.00 
+ Total Quantity = 4 
+ Our Price = $251.84 
+ Terms: Credit Card 
+ Lead Time: 5 Days
+
+PO DATE: 4/27/2015
+ SHIPOUT DATE: 5/4/2015
+ CUT OFF TIME: 4/27/2015 12:00p

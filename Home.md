@@ -91,3 +91,16 @@ Part Number = NT_04252015
 PO DATE: 4/27/2015
  SHIPOUT DATE: 5/4/2015
  CUT OFF TIME: 4/27/2015 12:00p
+
+
+Tasks need to complete by 15-May-2015
+
+1. Complete assembly and test PCB boards for UW modem.
+
+2. Establish AXI interface to connect ARM processor from PS to modem section in PL on Zynq.
+
+3. Demo FIR filter design using MatLab and Vivado.  We planned to implement the FIR filter on ZedBoard.  Our customed build ADC and DAC boards will be connected to the FIR fitler via FMC conector as input and output ports.
+
+4. We may able to transmit our BPSK/QPSK signal on our modem.
+
+5. Continue update coding from Simulink.   

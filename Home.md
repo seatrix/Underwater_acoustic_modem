@@ -103,4 +103,9 @@ Tasks need to complete by 15-May-2015
 
 4. We may able to transmit our BPSK/QPSK signal on our modem.
 
-5. Continue update coding from Simulink.   
+5. Continue update coding from Simulink.
+
+**05-07-May-2015**   
+
+Connected RRC in, found right delay to get zero error output ![Received Signal with RRC.PNG](https://bitbucket.org/repo/Lx4j45/images/1056547846-Received%20Signal%20with%20RRC.PNG) 
+[RRC Filter](https://bitbucket.org/repo/Lx4j45/images/4136884445-RRC%20Filter.PNG)

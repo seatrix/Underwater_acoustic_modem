@@ -105,8 +105,17 @@ Tasks need to complete by 15-May-2015
 
 5. Continue update coding from Simulink.
 
-**05-07-May-2015**   
+**05-07-May-2015** 
+Assembled the board with Nghia after work. 
 
-Connected RRC in, found right delay to get zero error output [Received Signal with RRC.PNG](https://bitbucket.org/repo/Lx4j45/images/1056547846-Received%20Signal%20with%20RRC.PNG) 
+Connected RRC in, found right delay to get zero error output [Received Signal with RRC](https://bitbucket.org/repo/Lx4j45/images/1056547846-Received%20Signal%20with%20RRC.PNG) 
 
 [RRC Filter](https://bitbucket.org/repo/Lx4j45/images/4136884445-RRC%20Filter.PNG)
+
+**08-May-2015** 
+Worked with Prof Eldon to figure out how to decode the received signal in Receiver.
+
+**09-11-May-2015** 
+
+Found some output but they were not the same as we sent in transmitter. We sent " Hello world 00#" but attachment is something we received. [Output Message in Receiver](https://bitbucket.org/repo/Lx4j45/images/611252069-Capture.PNG) 
+    

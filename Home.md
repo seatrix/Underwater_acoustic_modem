@@ -106,11 +106,10 @@ Tasks need to complete by 15-May-2015
 5. Continue update coding from Simulink.
 
 **05-07-May-2015** 
+
 Assembled the board with Nghia after work. 
 
-Connected RRC in, found right delay to get zero error output [Received Signal with RRC](https://bitbucket.org/repo/Lx4j45/images/1056547846-Received%20Signal%20with%20RRC.PNG) 
-
-[RRC Filter](https://bitbucket.org/repo/Lx4j45/images/4136884445-RRC%20Filter.PNG)
+Connected RRC in, found right delay to get zero error output [Received Signal with RRC](https://bitbucket.org/repo/Lx4j45/images/1056547846-Received%20Signal%20with%20RRC.PNG) [RRC Filter](https://bitbucket.org/repo/Lx4j45/images/4136884445-RRC%20Filter.PNG)
 
 **08-May-2015** 
 

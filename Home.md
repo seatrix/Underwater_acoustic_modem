@@ -113,6 +113,7 @@ Connected RRC in, found right delay to get zero error output [Received Signal wi
 [RRC Filter](https://bitbucket.org/repo/Lx4j45/images/4136884445-RRC%20Filter.PNG)
 
 **08-May-2015** 
+
 Worked with Prof Eldon to figure out how to decode the received signal in Receiver.
 
 **09-11-May-2015** 

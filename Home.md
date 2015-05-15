@@ -118,4 +118,8 @@ Worked with Prof Eldon to figure out how to decode the received signal in Receiv
 **09-11-May-2015** 
 
 Found some output but they were not the same as we sent in transmitter. We sent " Hello world 00#" but attachment is something we received. [Output Message in Receiver](https://bitbucket.org/repo/Lx4j45/images/611252069-Capture.PNG) 
+
+**12-14-May-2015** 
+
+Worked Decoding in Receiver, but so far the output is still not good. ( although working online with Prof Eldon)
     

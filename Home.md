@@ -3,6 +3,10 @@
 Welcome to our wiki! 
 Team: Nghia Tran and Hoa Nguyen
 
+
+Click this page for final document https://bitbucket.org/maswes/acoustic_modem-cohort3/wiki/Underwater%20Modem
+
+
 ## Journal
 
 **17-April-2015**

@@ -1,5 +1,3 @@
-test edit
-
 # Welcome to Underwater Modem Project
 
 Welcome to our wiki! 

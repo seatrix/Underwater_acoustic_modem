@@ -1,4 +1,4 @@
-# seatrix Underwater Modem #
+# Seatrix Underwater Modem #
 Please contact info@seatrix.com if you need commercial underwater acoustic modem.
 
 ![EiglVvsUYAAbe_-.jpg](https://github.com/seatrix/Underwater_acoustic_modem/blob/master/EiglVvsUYAAbe_-.jpg) 

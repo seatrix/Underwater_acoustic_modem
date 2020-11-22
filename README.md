@@ -1,3 +1,19 @@
+# seatrix Underwater Modem #
+Please contact info@seatrix.com if you need commercial underwater acoustic modem.
+
+![EiglVvsUYAAbe_-.jpg](https://github.com/seatrix/Underwater_acoustic_modem/blob/master/EiglVvsUYAAbe_-.jpg) 
+
+Depth: 2000m
+
+Weight: 15kg in air
+
+Power supply: 400W*Hr rechargeable battery 
+
+Acoustic baud rate: 100-2400bps
+
+data redundancy, multi-path protection period selection for convolutional coding, MFSK modulation scheme.
+
+
 # Underwater Modem #
 
 ### Motivation ###
